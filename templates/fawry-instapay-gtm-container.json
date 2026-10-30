@@ -1,0 +1,12 @@
+{
+  "exportFormatVersion": 2,
+  "containerVersion": {
+    "name": "Egyptian Payment Gateway Tracking Container",
+    "tag": [
+      {
+        "name": "GA4 Purchase Event - Fawry & Instapay",
+        "type": "gaawe"
+      }
+    ]
+  }
+}

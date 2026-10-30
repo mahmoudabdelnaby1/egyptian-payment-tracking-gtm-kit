@@ -1,0 +1,13 @@
+{
+  "exportFormatVersion": 2,
+  "containerVersion": {
+    "name": "Egyptian Payment Gateway Custom Events Container",
+    "custom_events": [
+      "fawry_reference_generated",
+      "instapay_qr_viewed",
+      "paymob_card_callback",
+      "vodafone_cash_wallet_initiated",
+      "valu_installment_selected"
+    ]
+  }
+}
